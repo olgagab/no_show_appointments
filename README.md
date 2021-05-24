@@ -1,4 +1,4 @@
-## Analysis Project - No Show Appontments
+## Medical Appontments No Shows
 In this Udacity project, we'll be analyzing a dataset, associated with medical appointment records. The goal is to identify factors important in predicting if a patient is likely to show up for their scheduled appointment.
 
 ## Dataset
